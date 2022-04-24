@@ -1,0 +1,11 @@
+C:\Users\asus\OneDrive\Desktop\BoxSystem4\Models\bin\Debug\Models.dll
+C:\Users\asus\OneDrive\Desktop\BoxSystem4\Models\bin\Debug\Models.pdb
+C:\Users\asus\OneDrive\Desktop\BoxSystem4\Models\bin\Debug\ManageSystemDll.dll
+C:\Users\asus\OneDrive\Desktop\BoxSystem4\Models\bin\Debug\DataStructures.dll
+C:\Users\asus\OneDrive\Desktop\BoxSystem4\Models\bin\Debug\ManageSystemDll.pdb
+C:\Users\asus\OneDrive\Desktop\BoxSystem4\Models\bin\Debug\DataStructures.pdb
+C:\Users\asus\OneDrive\Desktop\BoxSystem4\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\BoxSystem4\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\BoxSystem4\Models\obj\Debug\Models.csproj.CopyComplete
+C:\Users\asus\OneDrive\Desktop\BoxSystem4\Models\obj\Debug\Models.dll
+C:\Users\asus\OneDrive\Desktop\BoxSystem4\Models\obj\Debug\Models.pdb

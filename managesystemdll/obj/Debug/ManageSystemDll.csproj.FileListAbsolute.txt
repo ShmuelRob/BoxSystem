@@ -1,0 +1,9 @@
+C:\Users\asus\OneDrive\Desktop\BoxSystem4\ManageSystemDll\bin\Debug\ManageSystemDll.dll
+C:\Users\asus\OneDrive\Desktop\BoxSystem4\ManageSystemDll\bin\Debug\ManageSystemDll.pdb
+C:\Users\asus\OneDrive\Desktop\BoxSystem4\ManageSystemDll\bin\Debug\DataStructures.dll
+C:\Users\asus\OneDrive\Desktop\BoxSystem4\ManageSystemDll\bin\Debug\DataStructures.pdb
+C:\Users\asus\OneDrive\Desktop\BoxSystem4\ManageSystemDll\obj\Debug\ManageSystemDll.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\BoxSystem4\ManageSystemDll\obj\Debug\ManageSystemDll.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\BoxSystem4\ManageSystemDll\obj\Debug\ManageSystemDll.csproj.CopyComplete
+C:\Users\asus\OneDrive\Desktop\BoxSystem4\ManageSystemDll\obj\Debug\ManageSystemDll.dll
+C:\Users\asus\OneDrive\Desktop\BoxSystem4\ManageSystemDll\obj\Debug\ManageSystemDll.pdb
